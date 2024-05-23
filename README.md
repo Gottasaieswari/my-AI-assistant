@@ -1,1 +1,1 @@
-# my-AI-assistant
+# my-AI-assistant thonAI
